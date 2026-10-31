@@ -1,0 +1,35 @@
+study,model_as_named_in_study,elephant_model,match_level,measure,value,higher_means,source_location,paper_version
+ELEPHANT (Cheng et al. 2026b),Llama-3-8B-Instruct,Llama-3-8B-Instruct,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.68,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Llama-3.3-70B-Instruct-Turbo,Llama-3.3-70B-Instruct,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.67,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Mistral-Small-24B-Instruct-2501,Mistral-Small-24B,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.67,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),DeepSeek-V3,DeepSeek-V3,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.65,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Qwen2.5-7B-Instruct-Turbo,Qwen2.5-7B-Instruct,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.62,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Llama-4-Scout-17B-16E,Llama-4-Scout-17B,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.56,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Mistral-7B-Instruct-v0.3,Mistral-7B-Instruct-v0.3,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.49,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),GPT-4o,GPT-4o (2024-11-20),L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.40,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),GPT-5,GPT-5,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.22,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Claude Sonnet 3.7,Claude Sonnet 3.7,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.15,more sycophantic,Table 3,ICLR 2026
+ELEPHANT (Cheng et al. 2026b),Gemini-1.5-Flash,Gemini-1.5-Flash,L1,S_moral (AITA-NTA-FLIP YTA/NTA),0.15,more sycophantic,Table 3,ICLR 2026
+SYCON-Bench (Hong et al. 2025),Llama-3.1-8B-Instruct,Llama-3-8B-Instruct,L2,Turn of Flip (false presuppositions),1.45,less sycophantic,Table 2,Findings of EMNLP 2025
+SYCON-Bench (Hong et al. 2025),Llama-3.3-70B-Instruct,Llama-3.3-70B-Instruct,L1,Turn of Flip (false presuppositions),1.90,less sycophantic,Table 2,Findings of EMNLP 2025
+SYCON-Bench (Hong et al. 2025),Qwen2.5-7B-Instruct,Qwen2.5-7B-Instruct,L1,Turn of Flip (false presuppositions),1.93,less sycophantic,Table 2,Findings of EMNLP 2025
+SYCON-Bench (Hong et al. 2025),DeepSeek-v3,DeepSeek-V3,L2,Turn of Flip (false presuppositions),2.88,less sycophantic,Table 2,Findings of EMNLP 2025
+SYCON-Bench (Hong et al. 2025),GPT-4o,GPT-4o (2024-11-20),L2,Turn of Flip (false presuppositions),2.92,less sycophantic,Table 2,Findings of EMNLP 2025
+SYCON-Bench (Hong et al. 2025),Claude-3.7-Sonnet,Claude Sonnet 3.7,L1,Turn of Flip (false presuppositions),2.92,less sycophantic,Table 2,Findings of EMNLP 2025
+SycEval (Fanous et al. 2025),ChatGPT-4o (2024-05-13),GPT-4o (2024-11-20),L2,regressive rate (% of all cases),14.40,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+SycEval (Fanous et al. 2025),Claude-Sonnet (version not stated),Claude Sonnet 3.7,L3,regressive rate (% of all cases),18.31,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+SycEval (Fanous et al. 2025),Gemini-1.5-Pro,Gemini-1.5-Flash,L3,regressive rate (% of all cases),9.25,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+SycEval (Fanous et al. 2025),ChatGPT-4o (2024-05-13),GPT-4o (2024-11-20),L2,overall sycophancy rate (%),56.71,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+SycEval (Fanous et al. 2025),Claude-Sonnet (version not stated),Claude Sonnet 3.7,L3,overall sycophancy rate (%),57.44,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+SycEval (Fanous et al. 2025),Gemini-1.5-Pro,Gemini-1.5-Flash,L3,overall sycophancy rate (%),62.47,more sycophantic,Section 3 results (text),AIES 2025 pp. 893-900
+FlipFlop (Laban et al.),Claude V1.3,,,accuracy drop dFF (%),35.1,more sycophantic,Table 2,arXiv:2311.08596v2
+FlipFlop (Laban et al.),Claude V2,,,accuracy drop dFF (%),24.8,more sycophantic,Table 2,arXiv:2311.08596v2
+FlipFlop (Laban et al.),GPT3.5-Turbo,,,accuracy drop dFF (%),19.7,more sycophantic,Table 2,arXiv:2311.08596v2
+FlipFlop (Laban et al.),GPT-4,,,accuracy drop dFF (%),6.4,more sycophantic,Table 2,arXiv:2311.08596v2
+FlipFlop (Laban et al.),Mistral-7b,Mistral-7B-Instruct-v0.3,L2,accuracy drop dFF (%),14.5,more sycophantic,Table 2,arXiv:2311.08596v2
+Sharma et al. 2024,claude-1.3,,,answers changed after "Are you sure?" (%),86,more sycophantic,Appendix A.4 (text; highest of five models),ICLR 2024
+Sharma et al. 2024,gpt-4,,,answers changed after "Are you sure?" (%),32,more sycophantic,Appendix A.4 (text; lowest of five models),ICLR 2024
+Sharma et al. 2024,claude-2.0,,,answers changed after "Are you sure?" (%),,more sycophantic,Fig. 2b only (not extracted),ICLR 2024
+Sharma et al. 2024,gpt-3.5-turbo,,,answers changed after "Are you sure?" (%),,more sycophantic,Fig. 2b only (not extracted),ICLR 2024
+Huang 2026,10-model panel,,,mean Spearman between pushback wordings of the same kind,0.82 (opinion) / 0.88 (dispute),,Section 3.1 (moral vignettes),arXiv:2610.06522v1
+Huang 2026,10-model panel,,,mean Spearman between kinds of pushback (opinion vs dispute),-0.01,,Section 3.1 (moral vignettes),arXiv:2610.06522v1
